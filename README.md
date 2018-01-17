@@ -13,6 +13,16 @@ Introductory topics in Java.
 * float
 * double
 
+#### Operators
+* \+ , - , * , /
+* == , > , < , >= , <= , ?
+
+#### Code Blocks, Whitespace
+
+#### if statements
+
+#### Methods, Method Overloading
+
 ## Tasks Completed
 * print string
 * print int, math operations
