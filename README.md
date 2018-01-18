@@ -22,9 +22,12 @@ Introductory topics in Java.
 #### if statements
 
 #### Methods, Method Overloading
+* Method Overloading is the process by which you can create multiple methods with the same name, but with different number of parameters and/or primitive data types.
 
 ## Tasks Completed
 * print string
 * print int, math operations
 * min/max values of various variable types
 * covert pounds to kilograms and maintain accuracy
+* create two overloaded methods that can accept either feet and inches or just inches and convert that to centimeters.
+
