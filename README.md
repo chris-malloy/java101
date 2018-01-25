@@ -17,12 +17,16 @@ Introductory topics in Java.
 * \+ , - , * , /
 * == , > , < , >= , <= , ?
 
-#### Code Blocks, Whitespace
-
-#### if statements
+#### Code Blocks, Whitespace, if statements, for and while loops
 
 #### Methods, Method Overloading
 * Method Overloading is the process by which you can create multiple methods with the same name, but with different number of parameters and/or primitive data types.
+
+#### Object Oriented Programming
+##### Topics Covered:
+* classes
+* constructors
+* inheritance
 
 ## Tasks Completed
 * print string
