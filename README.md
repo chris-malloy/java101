@@ -27,6 +27,7 @@ Introductory topics in Java.
 * classes
 * constructors
 * inheritance
+* composition
 
 ## Tasks Completed
 * print string
@@ -34,4 +35,5 @@ Introductory topics in Java.
 * min/max values of various variable types
 * covert pounds to kilograms and maintain accuracy
 * create two overloaded methods that can accept either feet and inches or just inches and convert that to centimeters.
+* create a room using composition
 
