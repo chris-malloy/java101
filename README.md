@@ -29,6 +29,7 @@ Introductory topics in Java.
 * inheritance
 * composition
 * encapsulation
+* polymorphism
 
 ## Tasks Completed
 * print string
