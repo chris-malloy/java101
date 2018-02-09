@@ -28,6 +28,7 @@ Introductory topics in Java.
 * constructors
 * inheritance
 * composition
+* encapsulation
 
 ## Tasks Completed
 * print string
