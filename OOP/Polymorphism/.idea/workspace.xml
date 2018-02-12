@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chrismalloy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+            <state relative-caret-position="285">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="e#95#96#0" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
@@ -24,7 +24,6 @@
                 <element signature="e#192#193#0" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
                 <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
                 <element signature="e#355#356#0" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
@@ -163,12 +162,12 @@
       <updated>1518195888065</updated>
       <workItem from="1518195893153" duration="1627000" />
       <workItem from="1518293858606" duration="75000" />
-      <workItem from="1518294935765" duration="1008000" />
+      <workItem from="1518294935765" duration="1606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2710000" />
+    <option name="totallyTimeSpent" value="3308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -225,7 +224,6 @@
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
@@ -258,7 +256,6 @@
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
@@ -300,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chrismalloy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="285">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="e#95#96#0" expanded="true" />
             <element signature="e#127#128#0" expanded="true" />
@@ -309,7 +306,6 @@
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
