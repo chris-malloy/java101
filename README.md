@@ -31,6 +31,9 @@ Introductory topics in Java.
 * encapsulation
 * polymorphism
 
+#### Advanced Data Types
+* arrays
+
 ## Tasks Completed
 * print string
 * print int, math operations
