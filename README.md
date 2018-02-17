@@ -32,7 +32,9 @@ Introductory topics in Java.
 * polymorphism
 
 #### Advanced Data Types
-* arrays
+* Arrays
+* Lists
+* ArrayLists
 
 ## Tasks Completed
 * print string
